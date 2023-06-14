@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋 , I'm Sandeep singh 
 
-<!--
-**Sandeep9196/Sandeep9196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Fullstack Developer :rocket:   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Phnom Penh , Cambodia
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on other developers
+- ⚡️ Fun fact I love to play cricket and volleyball.
+
+## Connect with me : 
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/sandeep-singh-patel-100232104/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep9196&layout=compact)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep9196)
